@@ -32,7 +32,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bharathkumar/mylib.git"
+    "url": "https://github.com/bharathrajapr/mylib.git"
   },
   "publishConfig": {
     "access": "public"
